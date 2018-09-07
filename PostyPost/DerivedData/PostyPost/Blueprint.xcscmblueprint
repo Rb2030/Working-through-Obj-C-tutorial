@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E50D1FF17301440739DE60B6989463B1B2F01197",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E50D1FF17301440739DE60B6989463B1B2F01197" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "494CFD7E-DDEB-4285-974F-D0B8AF4AF3DD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E50D1FF17301440739DE60B6989463B1B2F01197" : "Obj-C%20Work\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PostyPost",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PostyPost\/PostyPost.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:Rb2030\/Working-through-Obj-C-tutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E50D1FF17301440739DE60B6989463B1B2F01197"
+    }
+  ]
+}
